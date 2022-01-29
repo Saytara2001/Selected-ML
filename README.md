@@ -25,5 +25,5 @@
 <p align="left">Numerical Dataset: https://www.kaggle.com/tejashvi14/travel-insurance-prediction-data</p>
 <p align="left">Images Dataset:  https://www.kaggle.com/muniryadi/cat-vs-rabbit</p>
 
-<h3 align="left">📱 Prototype Images:</h3>
+<h3 align="left">📸 Prototype Images:</h3>
 
