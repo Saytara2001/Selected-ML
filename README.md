@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, Welocme to Machine Learning</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saytara2001&label=Profile%20views&color=0e75b6&style=flat" alt="saytara2001" /> </p>
-
 <h2 align="left">What is Machine Learning:</h3>
 <p>Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.</p>
 
