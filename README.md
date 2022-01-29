@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welocme to Machine Learning</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to Machine Learning</h1>
 
 <h2 align="left">What is Machine Learning:</h3>
 <p>Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.</p>
@@ -24,4 +24,5 @@
 <p align="left">Images Dataset:  https://www.kaggle.com/muniryadi/cat-vs-rabbit</p>
 
 <h3 align="left">📸 Prototype Images:</h3>
+
 
